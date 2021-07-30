@@ -1,16 +1,15 @@
-### Hi there 👋
+## Dyego Alves - Develop Web / Sistemas 💻
 
-<!--
-**dyegoalves/dyegoalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-DyegoAlves-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyegoalves/)
 
-Here are some ideas to get you started:
+Bacharel em Ciencias da Computacão , e um grande intusiasta na área de TI !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Coragem é saber o que não temer.
+
+_(Platão)_
+
+[![leomaurodesenv's github stats](https://github-readme-stats.vercel.app/api?username=dyegoalves&count_private=true&hide=issues&show_icons=true&title_color=007ec6&icon_color=007ec6&line_height=24)](https://github.com/dyegoalves)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyegoalves&layout=top&langs_count=5&hide=""&,css&title_color=007ec6&icon_color=007ec6)](https://profile.codersrank.io/user/dyegoalves/)
