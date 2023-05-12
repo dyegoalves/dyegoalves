@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-DyegoAlves-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyegoalves/)
 
-Bacharel em Ciencias da Computacão , e um grande entusiasta na área de TI !
+Bacharel em Ciencias da Computacão, e um grande entusiasta na área de TI !
 
 Coragem é saber o que não temer.
 
